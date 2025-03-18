@@ -8,11 +8,15 @@
 		"vscjava.vscode-java-pack",
 		"pkief.material-icon-theme",
 		"naumovs.color-highlight",
-		"formulahendry.auto-rename-tag",
-		"formulahendry.auto-close-tag"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	// As máquinas da FIAP vêm com muitas extensões que pra essa matéria são puro bloat
 	"unwantedRecommendations": [
-		
+		"dart-code.dart-code",
+		"dsznajder.es7-react-js-snippets",
+		"dart-code.flutter",
+		"eamodio.gitlens", // hot take: odeio gitlens
+		"ms-python.python",
+		"loiane.angular-extension-pack",
 	]
 }
